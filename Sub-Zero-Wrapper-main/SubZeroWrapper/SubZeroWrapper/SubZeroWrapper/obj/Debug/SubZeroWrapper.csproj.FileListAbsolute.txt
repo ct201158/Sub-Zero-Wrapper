@@ -1,0 +1,10 @@
+E:\SubZeroWrapper\SubZeroWrapper\SubZeroWrapper\obj\Debug\SubZeroWrapper.csprojAssemblyReference.cache
+E:\SubZeroWrapper\SubZeroWrapper\SubZeroWrapper\obj\Debug\SubZeroWrapper.SubZero.resources
+E:\SubZeroWrapper\SubZeroWrapper\SubZeroWrapper\obj\Debug\SubZeroWrapper.Properties.Resources.resources
+E:\SubZeroWrapper\SubZeroWrapper\SubZeroWrapper\obj\Debug\SubZeroWrapper.csproj.GenerateResource.cache
+E:\SubZeroWrapper\SubZeroWrapper\SubZeroWrapper\obj\Debug\SubZeroWrapper.csproj.CoreCompileInputs.cache
+E:\SubZeroWrapper\SubZeroWrapper\SubZeroWrapper\bin\Debug\SubZeroWrapper.exe.config
+E:\SubZeroWrapper\SubZeroWrapper\SubZeroWrapper\bin\Debug\SubZeroWrapper.exe
+E:\SubZeroWrapper\SubZeroWrapper\SubZeroWrapper\bin\Debug\SubZeroWrapper.pdb
+E:\SubZeroWrapper\SubZeroWrapper\SubZeroWrapper\obj\Debug\SubZeroWrapper.exe
+E:\SubZeroWrapper\SubZeroWrapper\SubZeroWrapper\obj\Debug\SubZeroWrapper.pdb
